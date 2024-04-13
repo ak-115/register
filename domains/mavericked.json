@@ -1,0 +1,11 @@
+{
+  "description": "mavericked group website ",
+  "repo": "https://github.com/ak-115/maverickedgroup",
+  "owner": {
+    "username": "ak-115",
+    "email": "getmavericked@gmail.com"
+  },
+  "record": {
+    "CNAME": "ak-115.github.io"
+  }
+}
